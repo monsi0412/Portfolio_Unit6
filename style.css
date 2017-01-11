@@ -1,6 +1,6 @@
     header {
       text-align: center;
-      background: url("images/banner.jpg");
+      background: url("http://vignette3.wikia.nocookie.net/starrysky/images/4/4f/Starry_sky_1.png/revision/latest?cb=20150724135550");
       background-size: cover;
       color: white;
     }
@@ -9,6 +9,10 @@
     }
     h1 {
       font-size: 70px;
+      font-family: 'Sacramento', cursive;
+    }
+    body{
+      font-family: 'Raleway', sans-serif;
     }
     img {
       margin: 40px 0px 0px 0px;
